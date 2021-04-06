@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/brayan232001/18CursoAsincronismo/issues"
   },
-  "homepage": "https://github.com/brayan232001/18CursoAsincronismo#readme"
+  "homepage": "https://github.com/brayan232001/18CursoAsincronismo#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
