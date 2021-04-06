@@ -1,0 +1,23 @@
+{
+  "name": "18cursoasincronismo",
+  "version": "1.0.0",
+  "description": "Proyecto desarrollado con el curso de asincronismo de JavaScript en Platzi",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brayan232001/18CursoAsincronismo.git"
+  },
+  "keywords": [
+    "callback",
+    "async"
+  ],
+  "author": "Brayan Buitrago",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brayan232001/18CursoAsincronismo/issues"
+  },
+  "homepage": "https://github.com/brayan232001/18CursoAsincronismo#readme"
+}
